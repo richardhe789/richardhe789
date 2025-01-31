@@ -36,6 +36,7 @@
 </div>
 
 ###
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/richardhe/count.svg?"  />
