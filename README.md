@@ -30,17 +30,25 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardhe&show_icons=true&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardhe&layout=compact&theme=dracula" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richardhe789&theme=default" />
 </p>
 
 ---
 
-### 🏆 Achievements
+### 📈 Stats & Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richardhe&theme=dracula&no-frame=true&row=1&column=6"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=richardhe789&theme=default" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=richardhe789&theme=default&utcOffset=8" height="150"/>
+</p>
+
+---
+
+### 💻 Languages
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=richardhe789&theme=default" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=richardhe789&theme=default" height="150"/>
 </p>
 
 ---
