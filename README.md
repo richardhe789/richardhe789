@@ -1,32 +1,50 @@
-<h1 align="center">Hi 👋, I'm Richard He</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=378ADD&center=true&width=500&lines=Hi+there!+I'm+Richard+He+👋;CS+%7C+Data+Science+%7C+ML+Enthusiast;Always+learning+something+new." alt="Typing SVG" />
+</p>
 
 <p align="center">
-  🚀 High school student passionate about <b>Computer Science</b>, <b>Data Science</b>, and <b>Machine Learning</b>
+  <em>Making a boring world more beautiful.</em>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🔗 Connect with Me
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/richard-he07/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <br/>
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/richard-he07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=richardhe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardhe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+---
+
+## 🚧 Currently Working On
+
+- Machine learning projects with scikit-learn
+- Exploring data science pipelines and visualizations
 
 ---
 
