@@ -1,53 +1,39 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=24&pause=1000&color=378ADD&center=true&width=500&lines=Hi+there!+I'm+Richard+He+👋;CS+%7C+Data+Science+%7C+ML+Enthusiast;Always+learning+something+new." alt="Typing SVG" />
-</p>
+<h2 align="left">Hi 👋! My name is Richard He and I'm a CS & ML enthusiast, from the US.</h2>
 
-<p align="center">
-  <em>Making a boring world more beautiful.</em>
-</p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardhe789&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardhe789&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-## 🔗 Connect with Me
+###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/richard-he07/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:richardhe789@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardhe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardhe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
----
-
-## 🚧 Currently Working On
-
-- Machine learning projects with scikit-learn
-- Exploring data science pipelines and visualizations
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/richardhe/count.svg"/>
-</p>
+  <a href="https://www.linkedin.com/in/richard-he07/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
