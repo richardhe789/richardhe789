@@ -1,11 +1,7 @@
 <h2 align="left">Hi 👋! My name is Richard He and I'm a CS & ML enthusiast, from the US.</h2>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardhe789&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richardhe789&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+![richardhe789's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardhe789&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ###
 
