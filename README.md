@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋! My name is Richard He and I'm a CS & ML enthusiast, from the US.</h2>
 
 
-![richardhe789's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardhe789&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
