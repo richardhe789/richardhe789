@@ -20,9 +20,8 @@
 <br>
 <br>
 
-<!-- ## Profile Views
-![Visitor Count](https://profile-counter.glitch.me/richardhe789/count.svg)
-<br> -->
+## Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=richardhe789&label=Profile%20views&color=0e75b6&style=flat)
 <br>
 
 ## Currently I'm:
